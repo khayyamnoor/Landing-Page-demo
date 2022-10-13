@@ -1,0 +1,70 @@
+/* h1 {
+    color: red;
+}
+
+h2 {
+    color: red;
+}
+
+h3 {
+    color: red;
+} */
+
+/* p {
+    color: green;
+} */
+
+
+/* .heading {
+    color: red;
+}
+
+.parag {
+    color: green;
+    font-size: 30px;
+    font-weight: normal;
+}
+
+#p1 {
+    font-size: 50px;
+} */
+/* 
+p {
+    color: yellowgreen;
+} */
+
+
+h2,
+h3 {
+    color: yellow;
+    font-style: italic;
+}
+
+/* h1:hover {
+    color: red;
+    font-weight: bold;
+    font-size: 20px;
+} */
+
+.row {
+    width: 400px;
+    height: 400px;
+    border: 1px solid red;
+    background-color: red;
+    color: white;
+    background-image: url('./images/th\ \(1\).jpg');
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    background-position: bottom;
+    /* background-image: url('./images/th\ \(1\).jpg');
+    background-repeat: no-repeat;
+    background-size: contain; */
+
+    /* border-width: 2px;
+    border-color: red;
+    border-style: solid; */
+}
+
+.fontfamily {
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+}

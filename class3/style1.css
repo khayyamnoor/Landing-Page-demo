@@ -1,0 +1,32 @@
+h1 {
+    color: #1f1f12;
+}
+
+h2 {
+    color: red;
+}
+
+h3 {
+    color: red;
+}
+
+div {
+    width: 200px;
+    height: 200px;
+    border: solid black ;
+    padding-bottom: 15px;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 10px; ;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    background-color: antiquewhite;
+    display: inline-block;
+    text-align: center;
+    margin: 100px;
+}
+.parag{
+    font-weight: bold;
+    text-align: center;
+}
